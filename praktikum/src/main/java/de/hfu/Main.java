@@ -3,6 +3,11 @@ package de.hfu;
 import java.util.*;
 
 public class Main {
+	/**
+	 * Hauptprogramm liest einen String ein und prüft,
+	 * ob eine Umwandlung des jeweiligen Char erforderlich ist.
+	 * Der neu gebildete String wird im Anschluss ausgegeben.
+	 */
 	public static void main(String... args) {
 		String eingabe;
 		String out = "";
